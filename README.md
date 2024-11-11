@@ -1,2 +1,1 @@
-# R_Arjun
-# R_Arjun
+# linear regression used car prices task
